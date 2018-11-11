@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "SConscript": "python",
+        "ratio": "cpp",
+        "type_traits": "cpp",
+        "slist": "cpp",
+        "vector": "cpp",
+        "algorithm": "cpp"
+    }
+}
