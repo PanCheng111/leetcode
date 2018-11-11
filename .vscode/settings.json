@@ -5,6 +5,7 @@
         "type_traits": "cpp",
         "slist": "cpp",
         "vector": "cpp",
-        "algorithm": "cpp"
+        "algorithm": "cpp",
+        "cstdio": "cpp"
     }
 }
