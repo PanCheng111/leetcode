@@ -6,6 +6,8 @@
         "slist": "cpp",
         "vector": "cpp",
         "algorithm": "cpp",
-        "cstdio": "cpp"
+        "cstdio": "cpp",
+        "*.ipp": "cpp",
+        "string": "cpp"
     }
 }
